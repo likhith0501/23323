@@ -8,3 +8,5 @@ from app import app
 
 # Expose wsgi handler for Vercel
 app_handler = app
+
+app_handler = app
